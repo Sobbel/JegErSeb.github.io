@@ -24,7 +24,8 @@ h1 {
 }
 
 h1, h2, h3, h4, h5 {
-  color: #00008B;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 img {
@@ -34,9 +35,9 @@ img {
 
 }
 
-a{
+/*a{
     color: hotpink;
-}
+}*/
 
 
 ul {
